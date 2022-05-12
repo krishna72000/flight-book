@@ -1,0 +1,79 @@
+{
+    "login": {
+        "flag": true,
+        "token": "qwassackj1k2kj121j2kj2",
+        "username": "Krishna Acharya",
+        "id": 1
+    },
+    "signup": [],
+    "sector": {
+        "flag": true,
+        "message": "success",
+        "data": [
+            {
+                "code": "BDP",
+                "name": "BHADRAPUR"
+            },
+            {
+                "code": "BWA",
+                "name": "BHAIRAHAWA"
+            },
+            {
+                "code": "BHR",
+                "name": "BHARATPUR"
+            },
+            {
+                "code": "BIR",
+                "name": "BIRATNAGAR"
+            },
+            {
+                "code": "DHI",
+                "name": "DHANGADHI"
+            },
+            {
+                "code": "JKR",
+                "name": "JANAKPUR"
+            },
+            {
+                "code": "JMO",
+                "name": "JOMSOM"
+            },
+            {
+                "code": "KTM",
+                "name": "KATHMANDU"
+            },
+            {
+                "code": "LUA",
+                "name": "LUKLA"
+            },
+            {
+                "code": "MTN",
+                "name": "MOUNTAIN"
+            },
+            {
+                "code": "KEP",
+                "name": "NEPALGUNJ"
+            },
+            {
+                "code": "PKR",
+                "name": "POKHARA"
+            },
+            {
+                "code": "RJB",
+                "name": "RAJBIRAJ"
+            },
+            {
+                "code": "SIF",
+                "name": "SIMARA"
+            },
+            {
+                "code": "SKH",
+                "name": "SURKHET"
+            },
+            {
+                "code": "TMI",
+                "name": "TUMLINGTAR"
+            }
+        ]
+    }
+}
